@@ -12,7 +12,7 @@ description: 목차
 {% endtab %}
 
 {% tab title="CS" %}
-{% page-ref page="./" %}
+{% page-ref page="cs/untitled.md" %}
 {% endtab %}
 {% endtabs %}
 
