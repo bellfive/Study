@@ -1,25 +1,20 @@
+---
+description: 목차
+---
+
 # Initial page
 
-## Getting Super Powers
+## 목차
 
-Becoming a super hero is a fairly straight forward process:
+{% tabs %}
+{% tab title="Android" %}
 
-```
-$ give me super-powers
-```
+{% endtab %}
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+{% tab title="CS" %}
+{% page-ref page="./" %}
+{% endtab %}
+{% endtabs %}
 
 
 

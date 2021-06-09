@@ -13,5 +13,5 @@
 
 ## CS
 
-* [Untitled](cs/untitled.md)
+* [알고리즘 인생을 계산하다.](cs/untitled.md)
 
